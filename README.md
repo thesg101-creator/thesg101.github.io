@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>My Resume</title>
-<style>
+<style> 
 :root {
   --primary-color: #2c3e50;
   --accent-color: #3498db;
