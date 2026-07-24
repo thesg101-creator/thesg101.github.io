@@ -17,13 +17,11 @@
         <h1>Your Name</h1>
         <p>Email: your.email@example.com | Phone: (123) 456-7890</p>
     </header>
-    
     <div class="section">
         <div class="section-title">Experience</div>
         <p><strong>Job Title</strong> - Company Name (Year - Present)</p>
         <p>Description of your responsibilities and achievements.</p>
     </div>
-
     <div class="section">
         <div class="section-title">Education</div>
         <p><strong>Degree</strong> - University Name (Year)</p>
